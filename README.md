@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DBRoKING
+- 👀 I’m interested in learning about Artificial Intelligence and Large Language Models.
+- 🌱 I’m currently learning about Computer Science.
+- 📫 How to reach me: dinugadewdun@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm fascinated by the fact of how similar the functioning of a computer to the functioning of a ones own brain.
